@@ -1,0 +1,6 @@
+{
+  "name": "Portal Chapter DPS - Telkom Indonesia",
+  "description": "Portal Chapter Digital Product & Solution, Divisi Digital Business Telkom Indonesia. AI-Powered Chapter Management & Digital Delivery Command Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
